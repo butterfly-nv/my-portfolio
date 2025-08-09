@@ -131,7 +131,7 @@ section { padding: 50px 0; }
 
 
 /* Responsive adjustments */
-@media (max-width: 576px) {
+@media (max-width: 736px) {
 
     .profile-img {
     width: 150px;
@@ -171,7 +171,7 @@ section { padding: 50px 0; }
 
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1024px) {
   .profile-img {
     width: 250px;
     height: 250px;
