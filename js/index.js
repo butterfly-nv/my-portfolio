@@ -108,7 +108,7 @@ const allActivity=[
         dicsription: "This program focused on front-end web development and user experience/ user interface design."
     },
     {
-        image: "image/ace.jpg",
+        image: "image/ace.JPG",
         name: "ACE Graduation(Volunteer)",
         year: "2025",
         dicsription: "Improve teamwork, leadership, and event organizing."
@@ -201,7 +201,7 @@ const allSkill = [
 let skill="";
 
 for (let i=0; i< allSkill.length; i++){
-    skill +=  `<div class="col-6">
+    skill +=  `<div class="col-12 col-md-6">
                     <div class="d-flex align-items-center mb-3">
                         <img src="${allSkill[i].image}" class="skill-icon me-2">
                         <span class="stars">${allSkill[i].rate}</span>
