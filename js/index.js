@@ -83,7 +83,7 @@ const allProject = [
 
 let project ="";
 for (let i = 0; i< allProject.length; i++){
-    project +=`<div class="col-md-4 col-sm-6">
+    project +=`<div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="card project-card h-100 d-flex flex-column">
                     <div class="card-body d-flex flex-column justify-content-between">
                         <h5>${allProject[i].title}</h5>
