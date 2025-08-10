@@ -1,6 +1,8 @@
 html { scroll-behavior: smooth; }
 section { padding: 50px 0; }
-
+body{
+  color: #5a524d;
+}
 .nav-link.active {
   color: #FFF700; 
   font-weight: bold;
@@ -21,6 +23,7 @@ section { padding: 50px 0; }
 
 
 .edu-card {
+  color: #5a524d;
   border: 3px;
   border-radius: 20px;
   height: 100%;
