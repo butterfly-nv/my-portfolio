@@ -1,6 +1,11 @@
 html { scroll-behavior: smooth; }
 section { padding: 50px 0; }
 
+.nav-link.active {
+  color: #FFF700; 
+  font-weight: bold;
+  border-bottom: 2px solid #FFF700;
+}
 /* About Me */
 .about-me {
   background-color: #C7D9DD;
