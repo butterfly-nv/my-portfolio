@@ -88,7 +88,7 @@ const allProject = [
         title: "Language Proficiency Testing Website - Team Project",
         skill: "PHP, HTML, CSS, JS, Bootstrap ",
         dicsription: "Developed the frontend for an online testing and certification platform with a responsive design.",
-        link: "https://butterfly-nv.github.io/orange-shop/"
+        link: "pdf/Final.zip"
     },
     {
         title: "Customer Churn Analysis - Telco Customer Churn",
@@ -100,7 +100,7 @@ const allProject = [
         title: "Social Media Platform & Online Community Study",
         skill: "R & Excel",
         dicsription: "Used descriptive stats and t-tests to analyze perceived community across social media platforms.",
-        link: "pdf/Online Community Analysis.pdf"
+        link: "pdf/pro2.zip"
     }
     
 ];
@@ -126,7 +126,7 @@ document.getElementById("project").innerHTML = project;
 // Activity
 const allActivity=[
     {
-        image: "image/sisterofcode.jpg",
+        image: "image/soc.jpg",
         name: "Sisters of Code- Website Development & UX/UI Design",
         year: "2025",
         dicsription: "This program focused on front-end web development and user experience/ user interface design."
