@@ -129,7 +129,7 @@ const allActivity=[
         image: "image/dgf.jpg",
         name: "Volunteer-Digital Government Forum 2025",
         year: "2025",
-        dicsription: "Enhanced my understanding of digital government and technology trends in Cambodia through direct event involvement. Networked with professionalsand tech experts, expanding my connections in the ICT field. "
+        dicsription: "Learned more about technology in Cambodia and connected with professionals and tech experts. "
     },
     {
         image: "image/soc.jpg",
