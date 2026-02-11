@@ -126,6 +126,12 @@ document.getElementById("project").innerHTML = project;
 // Activity
 const allActivity=[
     {
+        image: "image/dgf.jpg",
+        name: "Volunteer-Digital Government Forum 2025",
+        year: "2025",
+        dicsription: "Enhanced my understanding of digital government and technology trends in Cambodia through direct event involvement. Networked with professionalsand tech experts, expanding my connections in the ICT field. "
+    },
+    {
         image: "image/soc.jpg",
         name: "Sisters of Code- Website Development & UX/UI Design",
         year: "2025",
@@ -133,7 +139,7 @@ const allActivity=[
     },
     {
         image: "image/ace.JPG",
-        name: "ACE Graduation(Volunteer)",
+        name: "Volunteer-ACE Graduation",
         year: "2025",
         dicsription: "Improve teamwork, leadership, and event organizing."
     },
@@ -201,7 +207,7 @@ const allSkill = [
         rate: "★★★★☆"
     },
     {
-        image: "https://www.svgrepo.com/show/306070/framer.svg",
+        image: "https://tse2.mm.bing.net/th/id/OIP.PRCwfADN37ZX0cHEZjnTawHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
         rate: "★★★★☆"
     },
     {
